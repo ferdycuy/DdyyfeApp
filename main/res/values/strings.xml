@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Ddyyfe</string>
+
+    <string name="project_hello">Project Hello World</string>
+    <string name="project_count">Project Count</string>
+    <string name="project_sianida">Project Sianida</string>
+    <string name="project_pesanactivity">Project Pesan Activity</string>
+    <string name="project_set_alarm">Project Set Alarm</string>
+    <string name="project_show_map">Project Show Map</string>
+
+    <string name="hello_text">Hello World!</string>
+
+    <string name="button_label_toast">Desk</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Project Count</string>
+
+    <string name="button_main">Send</string>
+    <string name="text_header_reply">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Reply Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+
+    <string name="article_teks">
+    In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series. For more information, see the Beatles Time Capsule at www.rockument.com. \n\n This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on The Lost Lennon Tapes Vol. 28, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions. \n\n
+
+    Highlights include: \n\n
+
+    Cry for a Shadow – Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs. \n\n
+
+    My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal). \n\n
+
+    Searchin — A Jerry Leiber – Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys! \n\n
+
+    Love Me Do — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version. \n\n
+
+    She Loves You – Till There Was You – Twist and Shout — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark. \n\n
+
+    Leave My Kitten Alone — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 RB hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker. \n\n
+
+    One After 909 — A song recorded for the ¨C11C album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an RB feel to it.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+<!--    string buat fragment-->
+    <string name="movies">Movies</string>
+    <string name="action">Action</string>
+    <string name="comedy">Comedy</string>
+    <string name="romance">Romance</string>
+<!--string buat fragmen 123 layout-->
+
+    <string name="action1">Game of Thrones</string>
+    <string name="action2">The Hunger Games</string>
+    <string name="action3">The Maze Runner</string>
+    <string name="action4">Black Panther: Wakanda Forever</string>
+    <string name="sinopsisa1">Di benua mitos Westeros, beberapa keluarga kuat berjuang untuk menguasai Tujuh Kerajaan. Saat konflik meletus di dunia manusia, musuh lama sekali lagi bangkit dan mengancam mereka semua. Sementara itu, ahli waris terakhir dari dinasti yang baru saja direbut berencana merebut kembali tanah air mereka dari seberang Laut Sempit.</string>
+    <string name="sinopsisa2">THE HUNGER GAMES: THE BALLAD OF SONGBIRDS &amp; SNAKES follows a young Coriolanus (Tom Blyth) who is the last hope for his failing lineage, the once-proud Snow family that has fallen from grace in a post-war Capitol. With his livelihood threatened, Snow is reluctantly assigned to mentor Lucy Gray Baird (Rachel Zegler), a tribute from the impoverished District 12. But after Lucy Gray’s charm captivates the audience of Panem, Snow sees an opportunity to shift their fates. With everything he has worked for hanging in the balance, Snow unites with Lucy Gray to turn the odds in their favor. Battling his instincts for both good and evil, Snow sets out on a race against time to survive and reveal if he will ultimately become a songbird or a snake.</string>
+    <string name="sinopsisa3">When Thomas (Dylan Brien) wakes up trapped in a massive maze with a group of other boys, he has no memory of the outside world other than strange dreams about a mysterious organization known as W.C.K.D. Only by piecing together fragments of his past with clues he discovers in the maze can Thomas hope to uncover his true purpose and a way to escape. Based on the best-selling novel by James Dashner.</string>
+    <string name="sinopsisa4">Rakyat Wakanda kali ini akan berjuang untuk melindungi negerinya dari campur tangan kekuatan dunia setelah kematian sang Raja TChalla</string>
+    <string name="ratinga1">9.9</string>
+    <string name="ratinga2">8.4</string>
+    <string name="ratinga3">9.7</string>
+    <string name="ratinga4">8.5</string>
+
+    <string name="comedy1">Srimulat Hil yang Mustahal</string>
+    <string name="comedy2">YOWIS BEN</string>
+    <string name="comedy3">NGERI NGERI SEDAP</string>
+    <string name="comedy4">My Stupid Boss</string>
+    <string name="sinopsisc1">Film Srimulat: Hil yang Mustahal diadaptasi dari kisah grup lawak legendaris terbesar dalam sejarah pertunjukan di Indonesia dengan 300 lebih anggota, 3 kantor cabang serta panggung tetap di Solo, Surabaya dan Semarang yang sukses menjadi mega bintang berjuta penggemar pada era 80-90an.</string>
+    <string name="sinopsisc2">Bayu menyukai Susan sejak lama, namun merasa minder dengan keadaan dirinya yang pas-pasan. Bayu bertekad mengubah dirinya menjadi lebih populer dari Roy, pacar Susan yang gitaris band. Ia membentuk band bersama teman-temannya, yang dinamai Yowis Ben. Langkah Bayu dan teman-temannya tidak mudah. Terjadi perpecahan antar personil band. Berhasilkah Bayu mempertahankan band-nya dan mendapatkan Susan?</string>
+    <string name="sinopsisc3">Pak Domu dan Mak Domu yang tinggal bersama Sarma, ingin sekali tiga anaknya: Domu, Gabe dan Sahat yang sudah lama merantau pulang untuk menghadiri acara adat, tetapi mereka menolak pulang karena hubungan mereka tidak harmonis dengan Pak Domu.</string>
+    <string name="sinopsisc4">Cerita tentang hubungan kerja antara Boss yang absurd dengan karyawannya.  “Bossman” (Reza Rahadian) adalah orang Indonesia yang memiliki perusahaan di Kuala Lumpur. Perusahaannya itu tidak memiliki sistim dan aturan yang jelas. Dan biang kerok dari semua kekacauan itu justru Bossman sendiri. Tapi Bossman memiliki semboyan BOSSMAN ALWAYS RIGHT! Dan jika sudah ada maunya harus terwujud. Prinsipnya IMPOSIBLE WE DO MIRACLE WE TRY.</string>
+    <string name="ratingc1">6.9</string>
+    <string name="ratingc2">7.4</string>
+    <string name="ratingc3">8.4</string>
+    <string name="ratingc4">7.0</string>
+
+    <string name="romance1">Doona!</string>
+    <string name="romance2">Dilan 1991</string>
+    <string name="romance3">Titanic</string>
+    <string name="romance4">Bucin</string>
+    <string name="sinopsisr1">"Apa yang ada dalam pikiranmu?"Oktober ini, kisah cinta yang menggoda akan mekar Karya sutradara Lee Jung-hyo, pengarah «Crash Landing on You»Dibintangi Bae Suzy dan Yang Se-jong</string>
+    <string name="sinopsisr2">Dilan dan Milea telah resmi berpacaran.Ditengah kebahagiaan mereka berdua, Dilan terancam dipecat dari sekolah akibat perkelahiannya dengan Anhar. Dilan juga semakin sering berkelahi dan mendapatkan musuh. Milea khawatir dengan masa depan Dilan jika terus-terusan terlibat dalam masalah. Sebagai pacar Dilan, Milea merasa berhak melarang Dilan untuk terlibat dalam geng motor.</string>
+    <string name="sinopsisr3">A boy and a girl from differing social backgrounds meet during the ill-fated maiden voyage of the RMS Titanic.</string>
+    <string name="sinopsisr4">Film Bucin bercerita tentang 4 sahabat (Andovi, Tommy, Jovial dan Chandra) yang berusaha keluar dari hubungan yang tidak sehat karena mereka BUCIN (Budak Cinta)</string>
+    <string name="ratingr1">8,7</string>
+    <string name="ratingr2">8.5</string>
+    <string name="ratingr3">8.9</string>
+    <string name="ratingr4">7.7</string>
+    <string name="button_label_finish">selesai\n</string>
+    <string name="enter_fibonacci_limit">set limit\n</string>
+
+</resources>
