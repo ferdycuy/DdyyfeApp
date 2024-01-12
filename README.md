@@ -64,7 +64,39 @@ https://github.com/ferdycuy/DdyyfeApp/assets/115714443/36ef9fad-bd0c-4a58-b636-6
     Ini adalah layout dari halaman awal aplikasi ini. Layout ini terhubung dengan MainActivity.java tadi. Dilayout ini menampilkan semua tombol tombol dari berbagai activity dan program yang sudah dijelaskan 
     diatas. Beginilah tampilan dari layoutnya :
   
-![WhatsApp Image 2024-01-12 at 16 22 17](https://github.com/ferdycuy/DdyyfeApp/assets/115714443/a2237441-bdf6-44ec-befc-f567337c59f6)
+   <img src="https://github.com/ferdycuy/DdyyfeApp/assets/115714443/a2237441-bdf6-44ec-befc-f567337c59f6" width="300" height="500">
+
+   - AndroidManifest.xml [Lihat File](https://github.com/ferdycuy/DdyyfeApp/blob/e8a5a7cbb0f61d5568a9cf3c581283c1eefde468/main/AndroidManifest.xml)
+
+      Di AndroidManifest.xml ini berfungsi untuk mengaktifkan permission yang dibutuhkan dibeberapa activity. Selain itu, AndroidManifest.xml ini juga harus dilakukan pengeditan jika kita menambah sebuah 
+      tombol atau activity baru yang berhubungan dengan intent, agar activity tersebut dapat dibuka nantinya.
+
+   - string.xml [Lihat File](https://github.com/ferdycuy/DdyyfeApp/blob/e8a5a7cbb0f61d5568a9cf3c581283c1eefde468/main/res/values/strings.xml)
+    
+      String.xml ini adalah sebuah values, values ini berisi teks-teks dari tombol - isi - atau apapun itu yang berhubungan dengan teks.
+
+   - colors.xml [Lihat File](https://github.com/ferdycuy/DdyyfeApp/blob/e8a5a7cbb0f61d5568a9cf3c581283c1eefde468/main/res/values/colors.xml)
+
+       Sama seperti string, colors.xml ini juga merupakan sebuah values, tapi bedanya values ini berisi code-code warna yang sudah dibuat menjadi ID atau identitas yang bertujuan untuk memudahkan dalam 
+       pemanggilan warnanya di dalam coding.
+     
+- **Source Code Activity Hello World**
+
+   - HelloActivity.java [Lihat File](https://github.com/ferdycuy/DdyyfeApp/blob/e8a5a7cbb0f61d5568a9cf3c581283c1eefde468/main/java/com/example/tugassembilan/HelloActivity.java)
+     
+     Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat default sedari awal dibuat.
+     
+   - activity_hello.xml [Lihat File](https://github.com/ferdycuy/DdyyfeApp/blob/e8a5a7cbb0f61d5568a9cf3c581283c1eefde468/main/res/layout/activity_hello.xml)
+     
+     Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya. Saya hanya menambahkan textview untuk menampilkan android:text "hello_world" nya (text sudah ada di string.xml), selain 
+     itu saya juga mengubah warna text dan menambahkan background agar terlihat lebih menarik.
+
+- **Hasil Run**
+  
+
+https://github.com/ferdycuy/DdyyfeApp/assets/115714443/6dd2daeb-c7f5-459c-b064-e93ba1c01df3
+
+
 
 
 
