@@ -239,7 +239,9 @@ https://github.com/ferdycuy/DdyyfeApp/assets/115714443/aa69139b-3a47-44cd-844b-1
 
 # PENUTUP
 
-Sangat berterima kasih kepada Anda yang telah meluangkan waktu untuk membaca secara menyeluruh isi dari repositori ini. Apresiasi yang diberikan sangat berarti bagi saya dan menjadi motivasi untuk terus berkembang.Saya juga ingin mengucapkan terima kasih kepada Bapak Donny Maulana, S.Kom., M.M.S.I., yang telah menjadi pembimbing dalam pembelajaran pemrograman mobile ini. Beliau telah memberikan bimbingan dan ilmu yang sangat berharga.
+Saya ucapkan rterima kasih kepada teman-teman yang telah meluangkan waktu untuk membaca secara menyeluruh isi dari repositori ini. Apresiasi yang diberikan sangat berarti bagi saya dan menjadi motivasi untuk terus berkembang.
+
+Saya juga ingin mengucapkan terima kasih kepada Bapak Donny Maulana, S.Kom., M.M.S.I., yang telah menjadi pembimbing dalam pembelajaran pemrograman mobile ini. Beliau telah memberikan bimbingan dan ilmu yang sangat berharga.
 
 Semoga pembelajaran ini menjadi landasan untuk kemajuan lebih lanjut, dan kita semua dapat meraih kesuksesan bersama. Ini adalah akhir dari repository yang telah saya buat ini. Segala kesalahan kata atau kalimat yang mungkin ada, saya sampaikan permohonan maaf.
 
