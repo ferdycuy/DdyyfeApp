@@ -9,7 +9,7 @@ Kelas    : TI.22.A.1
 Dosen   : Donny Maulana, S.Kom., M.M.S.I.
 
 
-### Alhamdulilah hirabbil 'alamin
+### Alhamdulillah hirabbil 'alamin
 
 Telah sampai pada akhir mata kuliah pemrograman mobile di bawah bimbingan Pak Donny Maulana, S.Kom., M.M.S.I. Saya ingin menyampaikan terima kasih kepada Pak Donny atas dedikasi dan bimbingannya selama mata kuliah ini.
 </br>
